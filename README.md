@@ -527,6 +527,7 @@ Listening to users is important but seeing the real usage is even more crucial. 
 - [Pendo](https://www.pendo.io/) — measure and elevate the customer experience within their applications.
 - [Smartlook](https://www.smartlook.com) — user session replay and user engagement analytics.
 - [Usabilla](https://usabilla.com) — build future-proof customer experiences by asking the right questions at the right time.
+- [Plerdy](https://www.plerdy.com/) — analysis of conversion rate, UX, SEO on websites.
 
 </article>
 
